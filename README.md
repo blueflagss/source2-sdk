@@ -1,4 +1,4 @@
-# cs2-project
+# Source 2 SDK for Counter-Strike 2
 `DECREPATED: Because it is useless to me...` \
 Maybe update this if you are really willing yourself into this.
 
